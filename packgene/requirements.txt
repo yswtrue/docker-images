@@ -24,7 +24,7 @@ django-debug-toolbar==2.1
 django-debug-toolbar-request-history==0.1.0
 django-durationwidget==1.0.5
 django-extensions==2.2.9
-django-filter==2.2.0
+django-filter==2.4.0
 git+https://github.com/jsoa/django-easy-audit.git@crud_event_object_id_charfield
 django-inline-actions==2.3.0
 django-jet==1.0.8
